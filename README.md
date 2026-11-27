@@ -1,5 +1,7 @@
 # thesisversionverifying
 
+Research repository for a thesis on legislative polarization in Chile, 2010–2026: code for ideology estimation and polarization analysis, plus accompanying reports.
+
 ## Repository Structure
 
 - `code/`: Python scripts (`.py`), Jupyter notebooks (`.ipynb`), and R scripts (`.R`) for data processing, ideology estimation, and polarization analysis.
